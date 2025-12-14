@@ -1,0 +1,1 @@
+g++ -O3 -march=native ./src/*.cpp -I ./include -o main.exe
